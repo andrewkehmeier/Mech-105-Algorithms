@@ -2,7 +2,7 @@
 Algorithms created for Mech 105 utilizing numerical methods.
 
 
-#Algorithms
+# Algorithms
 
 **LU Factorization Algorithm**
 
