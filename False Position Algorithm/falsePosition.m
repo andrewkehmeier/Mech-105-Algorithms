@@ -6,6 +6,7 @@ function [root, fx, ea, iter] = falsePosition(func, xl, xu, maxit, es, varargin)
     %xl:x value for lower bound on the bracket surrounding the root
     %xu:x value for upper bound on the bracket surrounding the root
     %maxit:maximum number of iterations the function will go through before terminating
+    %es:stopping criterion calculated based on approximate relative error
     %varargin:variable to describe any additional parameters used within the function
 %outputs
     %root:root of the function esimated to within 0.0001%
