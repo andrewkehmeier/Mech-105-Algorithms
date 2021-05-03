@@ -1,5 +1,5 @@
 function [base2] = binaryConverter(base10)
-%binary A simple function to convert a base10 number to binary
+%binaryConverter Function takes a base 10 input and outputs a base 2 number
 %   Inputs:
 %       base10 - A number in base10
 %   Outputs:
