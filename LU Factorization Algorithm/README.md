@@ -14,4 +14,4 @@
 3. System can be solved by using L and U in the following orientation:
       - L\b = d
       - U\d = x 
-      - Where is the solution to the system with b as the forcing terms of the system
+      - Where is the x solution to the system with b as the forcing terms of the system and d as the intermediate matrix to achieve the solution.
