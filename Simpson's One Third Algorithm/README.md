@@ -3,11 +3,11 @@
 This algorithm utilizes the Simpson's 1/3 algorithm to estimate integral of tabulated data.
 
 ## Inputs: 
-x = vector of evenly spaced independent variable points
-y = vector of function values correlating to each independent variable
+- x = vector of evenly spaced independent variable points
+- y = vector of function values correlating to each independent variable
 
 ### Outputs:
-I = estimated numerical integral
+- I = estimated numerical integral
 
 #### Notes:
 1. This algorithm works for intervals that are both even and odd
