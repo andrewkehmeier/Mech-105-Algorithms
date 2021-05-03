@@ -1,4 +1,5 @@
 # Linear Regression Algorithm
+This algorithm utilizes the normal equations for a least-squares regression in order to compute a slope and y-intercept for the best fit line.
 
 ## Inputs:
 - x = vector of independent variable values
