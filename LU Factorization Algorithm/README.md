@@ -1,4 +1,5 @@
 # LU Factorization Algorithm
+Algortihm utilizes LU factorization in order to decompose a square matrix into an upper and lower triangular matrix, where Gaussian elimination is used to determine the upper triangular matrix, and correlating aN1/a11 values are plugged into L.
 
 ## Inputs:
 - A = coefficient matrix
