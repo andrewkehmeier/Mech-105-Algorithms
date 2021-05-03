@@ -2,7 +2,7 @@
 
 ## Inputs: 
 - base10 = a number in base 10
-- 
+
 ### Outputs:
 - base2 = a number in base 2
 
